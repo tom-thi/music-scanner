@@ -4,9 +4,11 @@
 >
 > **NOTE:**
 > 
-> This project was created in 2023 and depends on an API for song recognition that is **not available anymore**.
+> This is a small personal project from 2023, and it's not super polished. It depends on an API for song recognition that is **not available anymore**.
 >
 > Song recognition would have to be reimplemented with a different API to get this working again.
+>
+> This is a small project I created out of interest.
 >
 
 ### Purpose
