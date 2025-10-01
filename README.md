@@ -6,7 +6,7 @@
 > 
 > This is a small personal project from 2023, and it's not super polished. It depends on an API for song recognition that is **not available anymore**.
 >
-> Song recognition would have to be reimplemented with a different API to get this working again.
+> Song recognition would have to be reimplemented with a different API to get this working again. Maybe it is worth doing this locally, for example using [seek-tune](https://github.com/cgzirim/seek-tune), an implementation of Shazam's song recognition algorithm.
 >
 > This is a small project I created out of interest.
 >
