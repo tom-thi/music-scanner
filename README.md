@@ -31,3 +31,4 @@ This works by splitting the file into small parts, analyzing some of them, remov
         - your audd.io API key,
         - and your desired audio files that should be analyzed.
     - Here, you should also specify the playlist that the analyzer saves the recognized songs to.
+    - Of course, your audio files should actually exist at the specified location, i.e. the input folder.
